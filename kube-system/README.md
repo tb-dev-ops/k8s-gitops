@@ -1,3 +1,6 @@
+# PLEASE NOTE
+This is a forked repo of [bilimek/k8s-gitops](https://github.com/billimek/k8s-gitops) intended for my own experimental use/learning. 
+
 # coredns
 
 Using this specific [coredns](https://github.com/coredns/coredns) deployment to manage an internal DNS zone for support split-brain DNS for the home network (so that the same host will resolve properly for clients on the internal network as well as the external network).  [This issue](https://github.com/billimek/k8s-gitops/issues/153) explored the problem and landed on this solution.
