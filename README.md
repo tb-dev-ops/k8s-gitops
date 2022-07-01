@@ -1,3 +1,6 @@
+# PLEASE NOTE
+This is a forked repo of [bilimek/k8s-gitops](https://github.com/billimek/k8s-gitops) intended for my own experimental use/learning. Use any modified content at your own risk.
+
 ### GitOps Workflow for Kubernetes Cluster
 ![Kubernetes](https://i.imgur.com/p1RzXjQ.png)
 
